@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cachefncrypt",
+        "uuid": 12086140,
+        "checksum": "ky8whi"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
